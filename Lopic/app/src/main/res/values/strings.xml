@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lopic</string>
+    <string name="optiona">Option A</string>
+    <string name="optionb">Option B</string>
+    <string name="optionc">Option C</string>
+    <string name="selectimg">Image View</string>
+    <string name="selectopt">Options View</string>
+    <string name="addcomment">Show Comment View</string>
+
+    <string name="pick_image_intent_chooser_title">Select App</string>
+</resources>
